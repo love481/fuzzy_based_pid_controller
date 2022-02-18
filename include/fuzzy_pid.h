@@ -1,5 +1,5 @@
 /***author:love panta***
-***email:075bei016.love@pcampus.edu.np****
+***email:075bei016.love@pcampus.edu.np****/
 #pragma once
 #include<iostream>
 #ifndef FUZZY_PID_H_

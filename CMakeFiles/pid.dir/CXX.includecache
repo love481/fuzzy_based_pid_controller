@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/love/Downloads/fuzzy_based_pid_controller/src/main.cpp
+fuzzy_pid.h
+/home/love/Downloads/fuzzy_based_pid_controller/src/fuzzy_pid.h
+math.h
+/home/love/Downloads/fuzzy_based_pid_controller/src/math.h
+
+include/fuzzy_pid.h
+iostream
+-
+

@@ -2,7 +2,7 @@
 #include"math.h"
 //includes the implementation of fuzzy based pid controller
 float input_speed=0;//this is the speed u can get from encoder or from the sensor
-float setpoint=50;//targeted value u want to tract using pid
+float setpoint=50;//targeted value u want to track using pid
 float k_initial[3]={5,0.1,0.1};
 int main(void)
 {

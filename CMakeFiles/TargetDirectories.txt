@@ -1,3 +1,0 @@
-/home/love/Downloads/fuzzy_based_pid_controller/CMakeFiles/edit_cache.dir
-/home/love/Downloads/fuzzy_based_pid_controller/CMakeFiles/rebuild_cache.dir
-/home/love/Downloads/fuzzy_based_pid_controller/CMakeFiles/pid.dir

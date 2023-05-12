@@ -20,7 +20,8 @@ make && ./pid
 ```
 In order to use it give the input sensor data and tracking setpoint in the main.cpp file and print its behaviour.
 
-
+##Motor response
+![alt text](motor_response1.png) ![alt text](motor_response2.png)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
